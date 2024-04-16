@@ -1,4 +1,4 @@
-CHD Project Roles 
+## CHD Project Roles 
 Kelsey Matsik and Tori Fredell - Data Cleaning 
 Caroline Wynne - Visualizations 
 Ashleigh Curry and Theresa Trinh - Model Building 
